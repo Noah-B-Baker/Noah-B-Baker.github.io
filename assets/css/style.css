@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #5C246E;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #5C246E;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #5C246E;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2eafec;
+  background: #5C246E;
   color: #fff;
 }
 
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #5C246E;
   color: #fff;
   text-decoration: none;
 }
@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #5C246E;
 }
 
 /* Mobile Navigation */
@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #5C246E;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -253,7 +253,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #5C246E;
+  
 }
 
 @media (min-width: 1024px) {
@@ -305,7 +306,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #5C246E;
   bottom: 0;
   left: 0;
 }
@@ -341,7 +342,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: #5C246E;
   line-height: 0;
 }
 
@@ -364,7 +365,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #5C246E;
   float: left;
   line-height: 0;
 }
@@ -434,7 +435,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #149ddd;
+  background-color: #5C246E;
 }
 
 /*--------------------------------------------------------------
@@ -529,7 +530,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #5C246E;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -619,11 +620,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid #5C246E;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: #5C246E;
 }
 
 .portfolio-details .portfolio-info {
@@ -677,10 +678,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #5C246E;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid #5C246E;
 }
 
 .services .icon i {
@@ -694,7 +695,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #149ddd;
+  color: #5C246E;
 }
 
 .services .title {
@@ -709,7 +710,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: #5C246E;
 }
 
 .services .description {
@@ -797,11 +798,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid #5C246E;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: #5C246E;
 }
 
 /*--------------------------------------------------------------
@@ -820,7 +821,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #5C246E;
   float: left;
   width: 44px;
   height: 44px;
@@ -871,12 +872,12 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #5C246E;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #5C246E;
   color: #fff;
 }
 
@@ -964,7 +965,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #149ddd;
+  background: #5C246E;
   border: 0;
   padding: 10px 24px;
   color: #fff;
